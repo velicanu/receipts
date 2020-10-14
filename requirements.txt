@@ -1,0 +1,6 @@
+awscli
+black
+flake8
+isort
+streamlit
+virtualenv
